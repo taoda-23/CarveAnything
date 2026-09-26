@@ -4,7 +4,6 @@ depth_anything_3
 numpy
 opencv_python
 opencv_python_headless
-Pillow
 scipy
 torch==2.6.0+cu124
 torchvision==0.21.0+cu124

@@ -1,0 +1,11 @@
+depth_anything_3
+numpy
+opencv_python
+opencv_python_headless
+scipy
+torch
+torchvision
+typer
+pillow
+addict
+gradio
